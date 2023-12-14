@@ -1,6 +1,10 @@
 # MyMart
 
 Creating a Django+Python project for storing user entered customer data through created HTML files into csv files.
+
+Concept:
+To create an ordering system through HTML, Python, and Django that allows users to order anything they want (linked with another HTML file that stores list of items available for order) and then stores the order details accordingly into a CSV file.
+
 In summary, the program does the following:
 
 HTML:
